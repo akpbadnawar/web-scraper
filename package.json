@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "puppeteer": "^13.0.1",
+    "puppeteer-google-translate": "^1.0.6"
+  },
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "Prefeitura de Belo Horizonte - web scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "aditya pandey",
+  "license": "ISC"
+}
